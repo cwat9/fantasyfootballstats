@@ -1,6 +1,6 @@
 # fantasyfootballstats
 
-Project I have been working on during football off season. The program collects
+A project I have been working on during football off season. The program collects
 data from https://www.pro-football-reference.com/ and runs statistical analysis.
 
 ## Installation
@@ -22,3 +22,5 @@ to modify the ```year``` and ```week``` variables to the current.
 If you want to see an individual players stats as a plot, you can run the 
 ```updated_plot_stats.py```. You will need to modify ```year```, ```week```, and ```player```
 variables.
+
+There is also a web version: https://fantasyfootball.streamlit.app/
