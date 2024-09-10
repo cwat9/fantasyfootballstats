@@ -24,3 +24,6 @@ If you want to see an individual players stats as a plot, you can run the
 variables.
 
 There is also a web version: https://fantasyfootball.streamlit.app/
+
+## Credits
+[Source for the web scraping script](https://www.youtube.com/watch?v=XNhOs2bVHMo)
